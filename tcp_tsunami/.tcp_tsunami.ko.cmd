@@ -1,0 +1,1 @@
+cmd_/home/yxg/Desktop/build/bbr/bbr/tcp_tsunami.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/yxg/Desktop/build/bbr/bbr/tcp_tsunami.ko /home/yxg/Desktop/build/bbr/bbr/tcp_tsunami.o /home/yxg/Desktop/build/bbr/bbr/tcp_tsunami.mod.o ;  true
